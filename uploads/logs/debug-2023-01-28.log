@@ -1,0 +1,54 @@
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 49
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 154
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 37
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 314
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Undefined property: stdClass::$contact in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 61
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 65
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Undefined property: stdClass::$users_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 07:01:34 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\cookie_consent.php on line 3
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 49
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 154
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 37
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 314
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Undefined property: stdClass::$contact in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 61
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 65
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Undefined property: stdClass::$users_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 07:08:13 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\cookie_consent.php on line 3
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 49
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 154
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 37
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 314
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Undefined property: stdClass::$contact in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 61
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 65
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Undefined property: stdClass::$users_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 07:17:56 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\cookie_consent.php on line 3
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 49
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 154
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 37
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 314
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Undefined property: stdClass::$contact in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 61
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 65
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Undefined property: stdClass::$users_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 11:40:10 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\cookie_consent.php on line 3
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 49
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 154
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 37
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 314
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Undefined property: stdClass::$contact in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 61
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 65
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Undefined property: stdClass::$users_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 11:40:13 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\cookie_consent.php on line 3
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 49
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Undefined property: stdClass::$events_is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\links\links_content.php on line 154
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 37
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Attempt to read property "is_enabled" on string in E:\___\codecanyon\biolink\product\themes\altum\views\partials\menu.php on line 314
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Undefined property: stdClass::$contact in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 61
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\footer.php on line 65
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Undefined property: stdClass::$users_content in E:\___\codecanyon\biolink\product\themes\altum\views\partials\announcements.php on line 4
+[28-Jan-2023 11:40:15 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in E:\___\codecanyon\biolink\product\themes\altum\views\partials\cookie_consent.php on line 3
